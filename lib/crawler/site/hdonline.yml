@@ -1,0 +1,6 @@
+hdonline:
+  - 'http://hdonline.vn/danh-sach/phim-le.html'
+  - 'http://hdonline.vn/danh-sach/phim-bo.html'
+  - 'http://hdonline.vn/danh-sach/phim-moi.html'
+detail_link: '//*[@class="jt bxitem-link"]'
+paging: '//*[@class="pagination"]'

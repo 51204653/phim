@@ -1,0 +1,5 @@
+hdviet:
+  - 'http://movies.hdviet.com/phim-le.html'
+  - 'http://movies.hdviet.com/phim-bo.html'
+detail_link: '//*[@class="mv-namevn"]'
+paging: '//*[@class="paginglist paginglist-center"]'
